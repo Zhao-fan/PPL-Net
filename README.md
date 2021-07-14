@@ -15,41 +15,41 @@ Download datatsets for FGVC (e.g. CUB-200-2011, Standford Cars, FGVC-Aircraft, e
 
 >dataset
 
->>train
->>>class_001
->>>>1.jpg
+>>--train
+>>>---class_001
+>>>>----1.jpg
 
->>>>2.jpg
+>>>>----2.jpg
 
->>>>...
+>>>>----...
 
->>>class_002
+>>>---class_002
 
->>>>1.jpg
+>>>>----1.jpg
 
->>>>2.jpg
+>>>>----2.jpg
 
->>>>...
+>>>>----...
 
->>>...
+>>>---...
 
->>test
->>>class_001
->>>>1.jpg
+>>--test
+>>>---class_001
+>>>>----1.jpg
 
->>>>2.jpg
+>>>>----2.jpg
 
->>>>...
+>>>>----...
 
->>>class_002
+>>>---class_002
 
->>>>1.jpg
+>>>>----1.jpg
 
->>>>2.jpg
+>>>>----2.jpg
 
->>>>...
+>>>>----...
 
->>>...
+>>>---...
 
 
 ## Performance
