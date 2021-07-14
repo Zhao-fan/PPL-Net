@@ -14,6 +14,7 @@ opencv-python>=4.1
 Download datatsets for FGVC (e.g. CUB-200-2011, Standford Cars, FGVC-Aircraft, etc) and organize the structure as follows:
 
 >dataset
+
 >>train
 >>>class_001
 >>>>1.jpg
@@ -24,6 +25,7 @@ Download datatsets for FGVC (e.g. CUB-200-2011, Standford Cars, FGVC-Aircraft, e
 >>>>2.jpg
 >>>>...
 >>>...
+
 >>test
 >>>class_001
 >>>>1.jpg
