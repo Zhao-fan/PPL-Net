@@ -36,14 +36,22 @@ Download datatsets for FGVC (e.g. CUB-200-2011, Standford Cars, FGVC-Aircraft, e
 >>test
 >>>class_001
 >>>>1.jpg
+
 >>>>2.jpg
+
 >>>>...
+
 >>>class_002
+
 >>>>1.jpg
+
 >>>>2.jpg
+
 >>>>...
+
 >>>...
-    
+
+
 ## Performance
 PyTorch experiments were done on two Titan V GPU (batch_size = 16).
 
