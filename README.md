@@ -60,11 +60,11 @@ Download datatsets for FGVC (e.g. CUB-200-2011, Standford Cars, FGVC-Aircraft, e
 ## Performance and Pre-trained models
 PyTorch experiments were done on two Titan V GPU (batch_size = 16).
 
-Dataset  |  Object  |  Category  |  Train  |  Test  |  Accuracy  |  Pre-trained models
-------  |  ------  |  --------|  ---------|  ------|  ------  |  --------
-CUB-200-2011  |  Bird  |  200  |  5994  |  5794  |  89.7  |  [CUB](G:\premodel\bird_gpu2_16\model.pth)
-Stanford Cars  |  Car  |  196  |  8144  |  8041  |  95.3  |  [Car](G:\premodel\car\model.pth)
-FGVC-Aircraft  |  Aircraft  |  100  |  6667 |  3333  |  93.8  |  [Air](G:\premodel\air\model.pth)
+Dataset  |  Object  |  Category  |  Train  |  Test  |  Accuracy  
+------  |  ------  |  --------|  ---------|  ------|  ------ 
+CUB-200-2011  |  Bird  |  200  |  5994  |  5794  |  89.7  
+Stanford Cars  |  Car  |  196  |  8144  |  8041  |  95.3  
+FGVC-Aircraft  |  Aircraft  |  100  |  6667 |  3333  |  93.8 
 
 ## Visualization
 
