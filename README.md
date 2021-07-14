@@ -1,5 +1,7 @@
 # JPS-Net
 
+Fine-grained Visual Classification by Progressive Training via Jigsaw Puzzle Solver.
+
 ## Abstract
 Fine-grained visual classification remains a challenging task due to small inter-class differences and large intra-class differences. Classifying subclasses of objects from a superclass is highly dependent on finding discriminative feature representations. Existing approaches mainly converge on using attention mechanisms or various granularity components to solve this problem. But no thought is given to the impact of positional information among various granularities on network performance. To solve the above problem, we propose a progressively trained Jigsaw Puzzle Solver network (JPS-Net). Specifically, based on a classical classification network, we introduce a Jigsaw Puzzle Solver module. The shuffled version of the image is used as the input to the network. A double random matrix is obtained as the replacement matrix by applying the sinkhorn operator to the feature maps extracted by the backbone network. This double random matrix reflects the most likely global assignment of the output patches. And then applying a permutation loss to the matrix is supervised. Experiments on three standard fine-grained classification datasets (CUB-200-2011, Stanford Cars, FGCV-Aircraft) show that the performance of our method exceeds that of most methods.
 
