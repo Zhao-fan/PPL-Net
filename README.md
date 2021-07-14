@@ -63,5 +63,7 @@ FGVC-Aircraft  |  Aircraft  |  100  |  6667 |  3333  |  93.8
 
 ## Visualization
 
+Code in Gard-CAM.py helps generate visualization.
+
 ![image](https://github.com/Zhao-fan/JPS-Net/blob/main/images/vis1.PNG)
-![image](https://github.com/Zhao-fan/JPS-Net/blob/main/images/vis2.PNG)
+
