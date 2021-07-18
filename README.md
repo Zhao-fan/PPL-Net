@@ -62,9 +62,9 @@ PyTorch experiments were done on two Titan V GPU (batch_size = 16).
 
 Dataset  |  Object  |  Category  |  Train  |  Test  |  Accuracy |  model  
 ------  |  ------  |  --------|  ---------|  ------|  ------ |  --------
-CUB-200-2011  |  Bird  |  200  |  5994  |  5794  |  89.7  |  [bird](https://pan.baidu.com/s/1fWVA2cv4HzWpJtDtinD8Hg)
-Stanford Cars  |  Car  |  196  |  8144  |  8041  |  95.3  |  car
-FGVC-Aircraft  |  Aircraft  |  100  |  6667 |  3333  |  93.8  | air
+CUB-200-2011  |  Bird  |  200  |  5994  |  5794  |  89.7  |  [bird_model](https://pan.baidu.com/s/1uxCJsk2lvFlN9fUQF5EoUA)
+Stanford Cars  |  Car  |  196  |  8144  |  8041  |  95.3  |  [car_model](https://pan.baidu.com/s/1wuf44hIBCJdN1PMUir1y9Q)
+FGVC-Aircraft  |  Aircraft  |  100  |  6667 |  3333  |  93.8  | [aircraft_model](https://pan.baidu.com/s/1tMwOqES_fSLWytS0fLBCUw)
 
 ## Visualization
 
