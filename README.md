@@ -72,3 +72,7 @@ Code in Gard-CAM.py helps generate visualization.
 
 ![image](https://github.com/Zhao-fan/JPS-Net/blob/main/images/vis.png)
 
+## Acknowledgement
+
+Many thanks to [PMG-Progressive-Multi-Granularity-Training](https://github.com/PRIS-CV/PMG-Progressive-Multi-Granularity-Training) of [Fine-Grained Visual Classiﬁcation via Progressive Multi-Granularity Training of Jigsaw Patches](https://arxiv.org/abs/2003.03836).
+
