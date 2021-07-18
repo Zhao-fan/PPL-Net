@@ -58,7 +58,7 @@ Download datatsets for FGVC (e.g. CUB-200-2011, Standford Cars, FGVC-Aircraft, e
 
 
 ## Performance 
-PyTorch experiments were done on two Titan V GPU (batch_size = 16).
+PyTorch experiments were done on two Titan V GPU (batch_size = 16). Download the trained model, the extraction code is 1234.
 
 Dataset  |  Object  |  Category  |  Train  |  Test  |  Accuracy |  model  
 ------  |  ------  |  --------|  ---------|  ------|  ------ |  --------
