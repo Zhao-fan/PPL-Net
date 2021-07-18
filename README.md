@@ -57,7 +57,7 @@ Download datatsets for FGVC (e.g. CUB-200-2011, Standford Cars, FGVC-Aircraft, e
 >>>---...
 
 
-## DPerformance 
+## Performance 
 PyTorch experiments were done on two Titan V GPU (batch_size = 16).
 
 Dataset  |  Object  |  Category  |  Train  |  Test  |  Accuracy  
