@@ -1,4 +1,4 @@
-# JPS-Net
+# PPL-Net
 
 Code release for Fine-grained Visual Classification by Progressive Training via Jigsaw Puzzle Solver.
 
