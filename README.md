@@ -1,6 +1,6 @@
 # PPL-Net
 
-Code release for Fine-grained Visual Classification by Progressive Training via Jigsaw Puzzle Solver.
+Code release for Fine-grained Visual Classification by Progressive Training via Jigsaw Puzzle Permutation Learning.
 
 ## Abstract
 
@@ -70,7 +70,7 @@ FGVC-Aircraft  |  Aircraft  |  100  |  6667 |  3333  |  93.8  | [aircraft_model]
 
 Code in Gard-CAM.py helps generate visualization.
 
-![image](https://github.com/Zhao-fan/JPS-Net/blob/main/images/vis.png)
+![image](https://github.com/Zhao-fan/PPL-Net/blob/main/images/vis.png)
 
 ## Acknowledgement
 
